@@ -6,7 +6,7 @@ NANE的实现版本
 
 ```python
 cd Alg
-python main.py --options
+python main.py -options
 ```
 
 #### 基本参数选择介绍
@@ -19,7 +19,7 @@ python main.py --options
 
 - --gamma，属性局部损失函数权重，初始值设为1；
 
-- --zeta，结构局部损失函数权重，初始值设为1；
+- -zeta，结构局部损失函数权重，初始值设为1；
 
 - --theta，输入属性信息权重，初始值设为1.5；
 
