@@ -2,6 +2,20 @@
 
 NANE的实现版本
 
+## 论文地址
+
+https://www.researchgate.net/publication/328383639_NANE_Attributed_Network_Embedding_with_Local_and_Global_Information_19th_International_Conference_Dubai_United_Arab_Emirates_November_12-15_2018_Proceedings_Part_I
+
+## ppt地址
+
+链接：https://pan.baidu.com/s/1AKtpsFziTQjK9TrFEVSGFw 
+提取码：bzmq
+
+## 数据集地址
+
+链接：https://pan.baidu.com/s/11YngqnF4OBV9fm_blV5UNg 
+提取码：piib
+
 ## 使用方法
 
 ```python
